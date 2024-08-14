@@ -1,0 +1,41 @@
+body {
+  font-family: Papyrus, "Times New Roman", Times, serif;
+  width: 700px;
+  margin: 200px auto;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.title {
+  font-size: 30px;
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+
+li {
+  display: block;
+  background-color: antiquewhite;
+  border: 1px solid rgb(247, 220, 185);
+  color: white;
+  padding: 10px 0px 7px 0px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(144, 81, 0);
+  text-decoration: underline;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
